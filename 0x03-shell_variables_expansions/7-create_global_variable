@@ -1,2 +1,2 @@
 #!/bin/bash
-set (shift : x)
+export BEST= "School"
